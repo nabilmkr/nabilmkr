@@ -74,7 +74,7 @@ Designed a comprehensive campus parking management system from the ground up, in
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/nabilmkr" target="_blank">
+  <a href="https://linkedin.com/in/nabil-makarim16" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nabilmkr16@gmail.com" target="_blank">
