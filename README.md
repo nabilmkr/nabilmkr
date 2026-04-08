@@ -101,24 +101,27 @@ me.say_hi()
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabilmkr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilmkr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+
+<!-- Stats Card -->
+<a href="https://github.com/nabilmkr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabilmkr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&cache_seconds=3600" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilmkr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&cache_seconds=3600" />
+</a>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilmkr&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+<!-- Streak Stats (most reliable) -->
+<img src="https://streak-stats.demolab.com?user=nabilmkr&theme=tokyonight&hide_border=true&background=0D1117&fire=DD2727&ring=6E40C9&currStreakLabel=6E40C9" alt="GitHub Streak"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabilmkr&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%"/>
-</div>
 
----
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nabilmkr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FFFFFF" width="100%" alt="Activity Graph"/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nabilmkr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
